@@ -1,0 +1,236 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Considerations touching the excise of native and forreign commodities (as formerly established) as also how the present excise setled on His Majesty may (with some addition) be improved to the sum resolved on by the Commons in Parliament.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1644</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 27 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A34351</idno>
+            <idno type="STC">Wing C5919</idno>
+            <idno type="STC">ESTC R8485</idno>
+            <idno type="EEBO-CITATION">12029352</idno>
+            <idno type="OCLC">ocm 12029352</idno>
+            <idno type="VID">52716</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A34351)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 52716)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 60:13)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Considerations touching the excise of native and forreign commodities (as formerly established) as also how the present excise setled on His Majesty may (with some addition) be improved to the sum resolved on by the Commons in Parliament.</title>
+               </titleStmt>
+               <extent>12 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1644?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Place and date of publication from Wing.</note>
+                  <note>Reproduction of original in British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Excise tax --  Great Britain.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-09</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2011-09</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:52716:1"/>
+            <pb n="1" facs="tcp:52716:1" rendition="simple:additions"/>
+            <head>Conſiderations touching the Exciſe of Native and Forreign Commodities, (as formerly eſtabliſhed) as alſo how the preſent Ex<g ref="char:EOLhyphen"/>ciſe ſetled on His <hi>Majeſty,</hi> may (with ſome Addi<g ref="char:EOLhyphen"/>tion) be improved to the Sum reſolved on by the <hi>Commons</hi> in <hi>Parliament.</hi>
+            </head>
+            <p>ALthough the Impoſt, called Exciſe, hath by experi<g ref="char:EOLhyphen"/>ence been found to be the moſt equall and indiffe<g ref="char:EOLhyphen"/>rent Levy that can be laid upon the people, (and all ingenious men who have ſtudied the Nature and Product of it, upon the reſult of ſolemn and ſerious Debates, have acknowledged it ſo to be) yet by reaſon of its name, and vulgar prejudice (which any Tax of like import will inevitably find amongſt the people) it hath had the ill hap to be traduced as the moſt deſtructive thing imaginable to Trade and Com<g ref="char:EOLhyphen"/>merce, and a badge of ſlavery and vaſſalage, and ſome have not ſtuck to affirm, that the Moyetie of what it produceth, is expended in Charges and Salaries to Officers: Now for the re<g ref="char:EOLhyphen"/>moval of theſe Clamors and Prejudices, its neceſſary that the Nature of the Exciſe be demonſtrated in general, and then to ſhew that it is not conſiderably burdenſome, much leſs deſtruct<g ref="char:EOLhyphen"/>ive to Trade, eſpecially not to Forreign Commerce; and laſt<g ref="char:EOLhyphen"/>ly that the Charges and Salaries (as it may be managed) are no way conſiderable, as to the bringing in of ſuch a Revenue as it may produce.</p>
+            <p>The Exciſe is a certain Impoſition laid upon moſt Commodi<g ref="char:EOLhyphen"/>ties which are conſumed and ſpent within the Kingdom, and was formerly diſtinguiſhed under two general heads, <hi>vizt</hi>.</p>
+            <list>
+               <item>Forreign or Imported Goods.</item>
+               <item>Native or Inland Commodities.</item>
+            </list>
+            <p>
+               <note place="margin">Forreign Exciſe.</note>The Exciſe on Imported Forreign Goods was an equal and indifferent Levy, and no impediment to Forreign Commerce,
+<pb n="2" facs="tcp:52716:2"/>and with a little amendment of the Rules by which it was for<g ref="char:EOLhyphen"/>merly Collected, would be no burthen to the home Trade.</p>
+            <p>The Equitableneſs of the Levy conſiſted in this, That it was moſtly laid upon ſuch Forreign Commodities as are of vaſt and profuſe expence, as <hi>Wines, Silks, Tobacco, Fine Linens, Fruits, Spices, Grocery,</hi> and <hi>Druggs,</hi> the Income of which did hereto<g ref="char:EOLhyphen"/>fore produce 220000<hi rend="sup">l</hi>. <hi>per annum,</hi> and by a little amendment of the Rules by which it was formerly levyed (without augmen<g ref="char:EOLhyphen"/>tation of the Rates then ſet) it would in a ſhort time have im<g ref="char:EOLhyphen"/>proved to 300000<hi rend="sup">l</hi>. <hi>per annum,</hi> and (in caſe the aforeſaid Rules had been ſtrengthned by a Law) would have beeen Collected with much more eaſe, leſs charges, and greater ſatisfaction to the Subject in general.</p>
+            <p>The Equitableneſs of this Impoſt will further appear if it be conſidered, That it was only laid upon the Commodities con<g ref="char:EOLhyphen"/>ſumed and ſpent within the Kingdom (for whatſoever Import<g ref="char:EOLhyphen"/>ed Commodities were afterwards Exported paid no Exciſe) ſo that he which eats, drinks, and wears the Commodities Ex<g ref="char:EOLhyphen"/>ciſeable (and no other) pays the Duty, and that inſenſibly as his own occaſions call for it: And is it not much eaſier to pay Exciſe by the penny, when a mans neceſſities compel him, then to pay other Impoſitions by the pound, when the Emergen<g ref="char:EOLhyphen"/>cies of the Kingdom require them?</p>
+            <p>It was very prejudicial to His Majeſties Revenue to adde any part of the Exciſe to the Cuſtomes by way of an Additio<g ref="char:EOLhyphen"/>nal Duty; for as the Exciſe was ſettled, it was a perfect Cheque upon the Cuſtom-Officers in whom the great truſt lay; and it was by experience found much to advance the Receipts of the Cuſtoms, (which Advance many judicious men have com<g ref="char:EOLhyphen"/>puted to be no leſs then 40000<hi rend="sup">l</hi>. <hi>per annum</hi>) In like manner the Cuſtome-Officers were a Cheque upon the Exciſe Officers; This mutual Cheque was of great uſe, (eſpecially in the Out-Ports and Creeks where there are no Comptrolls, and where the greateſt frauds are committed.)</p>
+            <p>And it is humbly conceived, That the product of thoſe Commodities which this laſt year were taken off the Exciſe and added to the Cuſtoms will verifie the truth of what is here aſſerted; for the ſaid Commodities then added to the Cu<g ref="char:EOLhyphen"/>ſtoms hath not produced within the year above 60000.<hi rend="sup">l</hi> which
+<pb n="3" facs="tcp:52716:2"/>the year before in the Exciſe did yield 135000<hi rend="sup">l</hi>. (as by compa<g ref="char:EOLhyphen"/>ring the Accompts will appear;) Neither will the Addition of thoſe other Forreign Commodities which yet remain without any Exciſe or Additional Duty on them (if added to the Cu<g ref="char:EOLhyphen"/>ſtomes) produce any better Accompt there; The Reaſon, as is conceived, is the want of the aforeſaid mutual Cheques. And yet there is great reaſon that either an Exciſe, or an Additional Duty ſhould be impoſed upon thoſe Commodities which yet remain without either, which Commodities are ſuch as theſe, <hi>Spaniſh Tobacco, Sugars, Druggs, Fruit, Grocery, Throne-Silk, Iron, Paper,</hi> and all <hi>Haberdaſhery,</hi> &amp;c. For that <hi>Tobaccoes</hi> of our own Plantations pay an Additional Duty at the Cuſtome<g ref="char:EOLhyphen"/>houſe, and <hi>Spaniſh Tobacco</hi> payes none; In like manner <hi>Linen,</hi> being a uſeful Commodity payes, and other Commodities leſs uſeful, as <hi>Sugars, Fruit, Spices,</hi> &amp;c. payes none.</p>
+            <p>A further uſe may be made of this Cheque or Comptroll, in caſe of Farming the Cuſtomes; for by this means His Ma<g ref="char:EOLhyphen"/>jeſty may at any time know the certainty of thoſe Receipts ſo to be Farmed, whereas if it be laid only as an Additional Duty upon the ſame Commodities at the Cuſtom-Houſe, and both Duties be farmed, the certain knowledge of it will not ſo readily be obtained, neither will there be the like ſecurity to His Ma<g ref="char:EOLhyphen"/>jeſty in the aforeſaid mutual Cheques.</p>
+            <p>And as this will be of great certainty and ſecurity to his Majeſty in his Revenue, ſo alſo it will be a Cheque to the common practices of Farmers in reference to Trade, who have commonly been very pernitious, if not deſtructive, to the generality of Traders; for when the Cuſtoms Additional Duty, or Exciſe is very high ſet upon any Commodity that is of vaſt expence and currant here, the Farmers or their Com<g ref="char:EOLhyphen"/>plices will be the chief (if not the only) Traders in thoſe Com<g ref="char:EOLhyphen"/>modities; they uſually contracting with ſuch perſons as they pleaſe to bring in the ſaid Commodity upon payment of half or one third part of the Duty, to the very great prejudice of young Traders, and the engroſſing and monopolizing of Trade, (which ought to be free) into the hands of them<g ref="char:EOLhyphen"/>ſelves or their friends; whereas if the Exciſe be diſtinct, and under a diſtinct Government from the Cuſtoms, in caſe any encreaſe of Duty ſhall be laid by way of Exciſe (which is
+<pb n="4" facs="tcp:52716:3"/>moſt rational) this evil practice of the Farmers will be pre<g ref="char:EOLhyphen"/>vented, to the great content and ſatisfaction of Merchants in general, eſpecially of young beginners, who ought to be en<g ref="char:EOLhyphen"/>couraged: Moreover another evil practice of the Farmers will be prevented by laying an Exciſe upon Forreign Goods (and not permitting them to be Farmed) <hi>viz.</hi> Their filling the Mar<g ref="char:EOLhyphen"/>kets with unperiſhable Commodities toward the expiration of their Farme, that ſhall ſerve for the expence of the Kingdom for one year at leaſt, ſo that if His Majeſty ſhall not think fit to continue his Cuſtoms in Farme, but reaſſume the ſame into the hands of Commiſſioners, there will be a vaſt loſs on ſtaple Commodities, by reaſon the Market will be repleniſhed as afore<g ref="char:EOLhyphen"/>ſaid; an inſtance of this was lately experimented in the Farme of Salt, &amp;c.</p>
+            <p>To ſhew that an Exciſe is no burthen to Trade, may be thus evinced; That which is laid only upon the Conſumption of Goods ſpent within the Kingdom, and paid by the firſt Buy<g ref="char:EOLhyphen"/>er or Conſumptioner, can be no burthen to Trade, (eſpecial<g ref="char:EOLhyphen"/>ly to Forreign Commerce) But ſo was the Forreign Exciſe, <hi>Ergo,</hi> &amp;c.</p>
+            <p>Neither is it any ſuch burthen to the home Trade, eſpecially if reſpect be had to the profit and advantage of the Trader, for who knows not that the Shop-keeper or Trader rates the Exciſe he pays (a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> all other his Charges) into the price of his Com<g ref="char:EOLhyphen"/>modity, and ſells it ſo much the dearer to him that conſumes and ſpends the ſame, who pays it inſenſibly (as before) only when his own neceſſity calls for it.</p>
+            <p>The two main Grievances which made the Exciſe formerly counted burthenſome, were,
+<list>
+                  <item>The great trouble to Merchants and Traders.</item>
+                  <item>The inequality in paying the Duty.</item>
+               </list>
+            </p>
+            <p>Firſt the trouble, for as the Rules then were, no Merchant or Trader could diſpoſe of, or remove his Goods from place to place,<milestone type="tcpmilestone" unit="unspecified" n="I"/> or into the Country, without certifying the Sale, and then procuring an Officer or a Ticket,<milestone type="tcpmilestone" unit="unspecified" n="II"/> upon great penalties of fines and ſeizures (and that in the ſtreets) which was very vexatious, and cauſed great complaints and trouble as well to the Buyer as Seller, as alſo to the Commiſſioners.</p>
+            <p>Secondly a greater burthen to Trade, was the inequallity of
+<pb n="5" facs="tcp:52716:3" rendition="simple:additions"/>paying the Duty, for as the Rules then were, every man was an Houſe-keeper had credit for the Exciſe of his goods, until ſale upon his bare Bill of Entry, without any other ſecuri<g ref="char:EOLhyphen"/>ty, which cauſed many meane perſons (mutable Inhabitants) to be ſet up to Enter Goods for abler Merchants, to the intent they might not be found when an account was required, ſo that by this means, the fair Trader that paid his full Exciſe duly, was extreamly prejudiced in his Trade by the frauds of thoſe which paid little or no Exciſe.</p>
+            <p>Now remedies againſt both theſe evills being provided for, by effectuall ſecuring the Duty upon the firſt Entry of the Goods<g ref="char:punc">▪</g> with the Officers of the Exciſe at the Cuſtom-Houſe, (who muſt be enjoyned to take good ſecurity for payment of the Duty at a time certain) will perfectly cure the di<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>aſe, to the Merchants great content, and an advantage to His Majeſties Revenue.</p>
+            <p>As to that other part of the Exciſe (to wit) on <hi>Native</hi> and <hi>Inland</hi> Commodities,<note place="margin">Native Exciſe.</note> as the former hath been broken (and con<g ref="char:EOLhyphen"/>ſequently in great part loſt by dividing it) ſo this hath been extreamly garbled, inſomuch that there now remaines only an Exciſe upon Beer and Ale and other Liquors, and what reaſon is there that thoſe other Inland Commodities which were for<g ref="char:EOLhyphen"/>merly ſubject to this Duty, ſhould ſtill remain exempt, it be<g ref="char:EOLhyphen"/>ing as proper that <hi>Salt, Soape, Lead, Iron, Hopps, Glaſs, Silver Wyer, &amp;c.</hi> ſhould pay a Duty to His Majeſty for the increaſe of his Revenue, as Beer and Ale and other Liquors, which are only received from one or two ſorts of men, and raiſ<g ref="char:EOLhyphen"/>eth great clamours upon the very account, that other Native Commodities are wholly exempt from the Duty.</p>
+            <p>The Income of the Exciſe of Beer &amp;c. (now eſtabliſhed by Law) cannot (without an augmentation upon other perſons or) Commodities) poſſibly produce above 250000 <hi>l. per an.</hi> and if (according as the Commons in Parliament have voted) His Ma<g ref="char:EOLhyphen"/>jeſties Revenue of Exciſe ſhall be raiſed to the ſum of 400000 <hi>l. per annum,</hi> it is humbly conceived that the before mentioned Commodities, both Forreign and Inland, ſhould be again made ſubject to this Duty, which being done, and thoſe Commodi<g ref="char:EOLhyphen"/>ties lately added to the Cuſtoms by way of Additional Du<g ref="char:EOLhyphen"/>ty brought back to their proper Channel, <hi>viz.</hi> to the Exciſe,
+<pb n="6" facs="tcp:52716:4"/>the ſum propounded will be raiſed, (and the Cuſtoms will not conſiderably be leſſened) the ſame being once made firm and ſixed by a Law, and not diſturbed by often changing the method and way of management, and the perſons that manage the ſame, would in a very ſhort time become a cer<g ref="char:EOLhyphen"/>tain and conſtant Revenue, and not be ſo ingrate to the people as other Taxes, which are more groſs and bulkey, and which draw greater ſums at once from the Subject.</p>
+            <p>Neither indeed is this way of Leavy unſuitable to Monar<g ref="char:EOLhyphen"/>chy, the ſame having been long uſed in the Kingdoms of <hi>Spain</hi> and <hi>Portugal,</hi> upon all proviſions, and other Princes have gene<g ref="char:EOLhyphen"/>rally Taxes of like nature, as the King of <hi>France</hi> on Salt conſum<g ref="char:EOLhyphen"/>ed and ſpent within his Kingdom, and it is a Maxime of our Neighbours the Neatherlanders (now Maſters of the greateſt Trade in the World) to leſſen their Cuſtoms, and enhance the Exciſe on the Commodities there conſumed and ſpent.</p>
+            <p>And now to anſwer the great Objection, <hi>viz.</hi> That the Sala<g ref="char:EOLhyphen"/>ries to Officers,<label type="milestone">
+                  <seg type="milestoneunit">Object. </seg>
+               </label> and charges expended in collecting this Duty, hath been ſo great, that it eats up the Moyetic of what it produceth.</p>
+            <p>This is ſuch a miſtake that it ſufficiently diſcovers their igno<g ref="char:EOLhyphen"/>rance that affirm it.<label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>
+               </label> The charges in collecting the Exciſe ſince its firſt erection, have been very various ſome years more, and ſome leſs, as the troubles in the Kingdom have increaſed or decreaſ<g ref="char:EOLhyphen"/>ed, yet it never exceeded Two ſhillings <hi>per</hi> pound in the whole, and ſometimes much leſs, <hi>viz.</hi> not ſixteen pence <hi>per</hi> pound, as can be evinced and cleerly made our, if re<g ref="char:EOLhyphen"/>quired by Authority; And how any Receipt of like nature can be collected from ſuch Multitudes of people (and much of it in remote parts) at a cheaper Rate, cannot ſurely by any judicious perſon be well imagined, yet neverthe<g ref="char:EOLhyphen"/>leſs upon a through ſettlement of the Exciſe by Law (ac<g ref="char:EOLhyphen"/>cording as is before propounded) it would be brought into His Majeſties Coffers, nett, at leſs then Twenty pence <hi>per</hi> pound.</p>
+            <p>Theſe things being duly weighed and conſidered, it muſt undoubtedly be granted, That the <hi>Forreign and Native</hi> Ex<g ref="char:EOLhyphen"/>ciſe, is the moſt equitable Tax for the conſtant raiſing of ſuch an annuall Sum as it produceth, and may be effected
+<pb n="7" facs="tcp:52716:4"/>without oppreſſion, burthen or diſeaſe to the people, if the ſame be ſetled by Act of Parliament, with ſuch Rules as may be preſented ſuitable to the foregoing Diſcourſe.</p>
+            <div type="part">
+               <head>An ANSWER to ſome PAPERS lately preſented to the High Court of <hi>Parliament,</hi> in Re<g ref="char:EOLhyphen"/>lation to the Exciſe of <hi>Beer</hi> and <hi>Ale, &amp;c.</hi> now eſtab<g ref="char:EOLhyphen"/>liſhed as part of His Majeſties Revenue (by which PAPERS its endeavored to alter the preſent way and management thereof, by propounding other Methods) which may be reduced under two General Heads, <hi>vizt.</hi>
+               </head>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="I"/> THat to lay the Exciſe on Mault is a more indifferent and equall way, &amp;c. then to lay it on Beer and Ale, &amp;c.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="II"/> That if the Duty of Exciſe be continued on Beer and Ale, yet that the common Brewer may be freed, and the ſame reduced only to Innes, Ale-Houſes, &amp;c. who ſhould pay a certain yearly Rent, &amp;c. to be collected by the Juſtices of the Peace, &amp;c.</p>
+               <p>To the firſt, for laying the charge on Mault, its by a worthy perſon, reduced to theſe four heads, <hi>viz.</hi>
+               </p>
+               <list>
+                  <item>
+                     <milestone type="tcpmilestone" unit="unspecified" n="1"/> Its a more equall Tax.</item>
+                  <item>
+                     <milestone type="tcpmilestone" unit="unspecified" n="2"/> Its a more certain Tax.</item>
+                  <item>
+                     <milestone type="tcpmilestone" unit="unspecified" n="3"/> Its a leſs chargeable Tax.</item>
+                  <item>
+                     <milestone type="tcpmilestone" unit="unspecified" n="4"/> Its a leſs clamorous Tax.</item>
+               </list>
+               <p>To the firſt, it cannot be denied,<label type="milestone">
+                     <seg type="milestoneunit">Anſw. </seg>
+                  </label> but that all Beer and Ale is made of Mault, and therefore if all Mault pay Exciſe, conſe<g ref="char:EOLhyphen"/>quently all Beer muſt, and ſo there is an equallity; but the great Queſtion will be, how to make all Mault pay Exciſe; for there is much Mault made in private Families, in ſome Counties half, if not two thirds of the Maults ſpent, are privately made, and undoubtedly as ſoon as an Impoſition is laid upon it, much more will, for the advantage they ſhall gain by ſaving the Exciſe; ſo that all Mault will not be brought to pay the Duty, but at a vaſt charge, clamour, and trouble, in entring and ſearching the
+<pb n="8" facs="tcp:52716:5"/>Houſes, Lofts and Chambers of the people, which will cauſe great trouble and vexation not to be endured, and the charge of Officers will be infinite, for multitudes will turn Maulſters to gaine the Exciſe; Its not gainſaid, but if Mault could be forbidden upon a great penalty to be made by any perſons, but by certain publick Maulſters, this might be of a vaile to increaſe the Exciſe in many countries (indeed in all the Countries in general) for then one Maulſter would be able to ſerve many Alehouſes and Petti-Brewers with Mault; but for the City of <hi>London,</hi> whoſe Exciſe of Beer and Ale is ⅓ and more of the whole Exciſe, and is collected at Four pence <hi>per</hi> pound charges, it would be of infinite loſs and charges to His Majeſty, for in <hi>London,</hi> one Brewer ſpends the Mault of at leaſt 50 or<g ref="char:EOLhyphen"/>dinary Maulſters, the like in proportion in other great Cities and Ports; Its therefore humbly conceived as to the equality of the Tax, that an Aſſeſs upon all private Families, according to their number and quality, is of much more equality and certainty, then this upon Mault.</p>
+               <p>The ſecond, it is utterly denied, for there cannot be a more certain way then the Gage of Tuns,<label type="milestone">
+                     <seg type="milestoneunit">Anſw. </seg>
+                  </label> Coppers and Veſſels, which is uſed, to bring the Brewers to a juſt quantity, and the Law hath provided for the quality of the drink; Beſides it is a ſetled way grown to maturity by near Twenty years experi<g ref="char:EOLhyphen"/>ence: Moreover Liquor is bulkey and leſs portable then Malts, and therefore not ſo eaſily hidden and laid out of ſight as Mault may and will be when an Impoſition is laid upon it: And wheras its ſaid, that Mault is long a making by ſo much the eaſi<g ref="char:EOLhyphen"/>re will the Fraud be practiſed, and require the longer attendance of Officers upon it, whereas Beer and Ale muſt be cleanſed at a certain time (which the Officers well know) elſe it will be ſpoiled.</p>
+               <p>To the third,<label type="milestone">
+                     <seg type="milestoneunit">Anſw. </seg>
+                  </label> Its anſwered that the Duty on Mault cannot be collected with treble the charge Beer and Ale is for 1/<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> part if not ½ of what is collected for Exciſe of Beer, and Ale, as is aforeſaid, doth not coſt Four pence the pound to collect in all charges and ſallaries to Commiſſioners and Officers, as will be made appear if required, and the way of making the Duty univerſal is before demonſtrated.</p>
+               <p>To the fourth,<note place="margin">
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſw.</note> let any indifferent man judge whether the
+<pb n="9" facs="tcp:52716:5"/>clamours will be leſs againſt the Duty from Brewers, Innekeep<g ref="char:EOLhyphen"/>ers, and Victuallers, then from the multitude of Maulſters, in caſe a Duty ſhould be impoſed on that Commodity, and whe<g ref="char:EOLhyphen"/>ther the entring into the private Houſes and Chambers of all perſons that now do, and hereafter will make Mault, will not be a greater greivance, then entring the Brew-houſes and Out-houſes of the Brewers, &amp;c. now is, to which they have been ac<g ref="char:EOLhyphen"/>cuſtomed, as is aforeſaid.</p>
+               <p>And now having (as is humbly conceived) given a full anſwer to the Arguments for the tranſlation of the Duty from Beer to Mault, we ſhall proceed to give ſome further Arguments againſt it; as, Firſt the different ſorts &amp; rates of Mault cannot be diſtin<g ref="char:EOLhyphen"/>guiſhed, ſome being made of Oates, other of Barley, and ſome of Wheat, all of much different prizes, there being almoſt half in half difference in the prizes of Mault (and in the make<g ref="char:EOLhyphen"/>ing of it) and to make the proportion hold, the Rate for Exciſe muſt be Eight ſhillings <hi>per</hi> Quarter on good Barley Maults, for each Quarter of ſuch, commonly produceth three Barrels of Strong Beer, beſides ſmall beer, otherwiſe it will not anſwer the Duty now laid on Beer and Ale.</p>
+               <p>Secondly, the inexperiencedneſs of Officers to take the quan<g ref="char:EOLhyphen"/>tity of Mault to ſettle the buſineſs, will coſt the King near a years Revenue of his Exciſe now ſetled by Law, which will be prevented if the Exciſe be continued upon the Brewer, as now it is eſtabliſhed.</p>
+               <p>Two things will much increaſe the Exciſe, and content the Brewers.</p>
+               <list>
+                  <item>Firſt, make the Duty univerſal, <hi>viz.</hi> That whoſoever will brew his own Beer, may pay Exciſe (as before) and then there will not ſo many brew for Lucre of the Exciſe as now there do, by which means the Brewers Trade will increaſe, and His Majeſties Revenue alſo.</item>
+                  <item>Secondly, keep the Quality of drink to a certain Standard, that the Ale-Brewer who makes Ale of ſixteen ſhillings <hi>per</hi> Bar<g ref="char:EOLhyphen"/>rel, may not out-doe (or undoe) the Beer-brewer, who ſeldom makes any above 10 <hi>s. per</hi> Barrel, which is a greater grievance to the Beer-brewer then the Exciſe, and this will encreaſe the Exciſe (which is much eluded by this fraud) help the Beer-brewers Trade, and bring down the price of Maults; as to this ſtrict
+<pb n="10" facs="tcp:52716:6"/>Rules muſt be provided, That no Ale or Beer be made above 10 <hi>s. per</hi> Barrel, upon great penaltys both to Brewer and Spender.</item>
+                  <item>Laſtly, That no Inne, Ale-houſe, or Victualler be Licenſed till the Duty be compounded for, and there ſhall not need a tranſla<g ref="char:EOLhyphen"/>tion of the Exciſe, to encreaſe this part of His Majeſties Re<g ref="char:EOLhyphen"/>venue.</item>
+               </list>
+               <p>
+                  <hi>As to the ſecond,</hi> viz. <hi>The reducing the Exciſe of Beer and Ale to a certain yearly Rent-charge upon all Inns and Ale-Houſes, to be collected by the Juſtices of the Peace in each Coun<g ref="char:EOLhyphen"/>ty,</hi> &amp;c.</p>
+               <p>The Arguments alledged for this Mutation are two, <hi>viz.</hi>
+               </p>
+               <p>It will
+<list>
+                     <item>1. Aſcertain His Majeſties Revenue.</item>
+                     <item>2. Leſſen and contract the charges in collecting it.</item>
+                  </list>
+               </p>
+               <p>As to the firſt,<note place="margin">1 <hi>Anſw.</hi>
+                  </note> it hath been before declared, that the far greater part of the Exciſe ariſing from Beer and Ale (well nigh ⅓ parts thereof) is collected from Common-Brewers in the City of <hi>London</hi> and parts adjacent, and other great Cities, Towns and Ports within this Kingdome, who pay it weekly as they brew the ſame upon the Returns of the Gagers, that con<g ref="char:EOLhyphen"/>ſtantly attend them at the time of cleanſing their drink, and take the certain quantity and quality thereof, and weekly make ſuch Returns to the Head-Offices, and theſe Returns from the Common-Brewers in the Office of <hi>London</hi> doth produce a cer<g ref="char:EOLhyphen"/>tain and conſtant Receipt of 2000 <hi>l. per</hi> week, the charges whereof is very inconſiderable, not above 4 <hi>d. per</hi> pound (as before hath been aſſerted) the like is done in all the chief Ci<g ref="char:EOLhyphen"/>ties, Ports and Towns in the Kingdom; and ſhould the Exciſe be taken off the Common-Brewers in ſuch Cities and places, and put as a Rent-charge upon the Inns and Ale-houſes;
+<list>
+                     <item>1. You exchange a Gentleman, and take a Beggar for your Security, whom if you truſt one Quarter, you truſt him for ever.</item>
+                     <item>2. It makes the collection at leaſt one hundred-fold more difficult, and conſequently more chargeable, for that the num<g ref="char:EOLhyphen"/>ber of Brewers, is not one of 100. of Ale-houſe-keepers <hi>&amp;c.</hi> and therefore the number of Officers muſt of neceſſity be in<g ref="char:EOLhyphen"/>creaſed.</item>
+                     <item>3. The Exciſe of all ſmall Beer of private Families, who take of the Common-Brewer is wholly loſt, alſo the Exciſe
+<pb n="11" facs="tcp:52716:6" rendition="simple:additions"/>of unlicenſed Alchouſes (that ought to be carefully looked after) and likewiſe of all Beer and Ale that is brewed for Faires, Wakes, &amp;c. which is now paid by the Common-Brewer.</item>
+                     <item>4. A certain and conſtant Revenue will be diſturbed and unſetled, that by twenty years practice hath grown to maturity, and a new way taken up, which hath not been tried, and to ex<g ref="char:EOLhyphen"/>periment and methodize the ſame, will loſe His Majeſty at leaſt, half a years Revenue; and ſhould the ſame be ſetled as is propoſed, what certainty can there be of the payment of the rate ſet upon the Ale-houſe-keepers, &amp;c. they being moſtly per<g ref="char:EOLhyphen"/>ſons ſo litigious and mutable, and generally ſo poor, that their Landlords for their Rents, and the Brewers that truſt them for their Ale and Beer, are neceſſitated to appoint Bay liffs and Col<g ref="char:EOLhyphen"/>lectors to receive the ſame weekly, and commonly have dor<g ref="char:EOLhyphen"/>mant Judgments, by which at their pleaſure they take their Goods, and turn them out of doors, ſo that His Majeſty in that way, will in all probability come ſhort in his Revenue.</item>
+                  </list>
+               </p>
+               <p>As to the leſſening of the charges,<note place="margin">2 <hi>Anſw.</hi>
+                  </note> for that the Juſtices of the Peace, and Conſtables will collect the ſame <hi>gratis;</hi>
+               </p>
+               <p>Beſides what hath been ſpoken in the former part of this Diſcourſe (to which the Reader is referred) touching the char<g ref="char:EOLhyphen"/>ges in collecting the Exciſe; It is further anſwered, That as the number of perſons from whom the Duty (if thus tranſla<g ref="char:EOLhyphen"/>ted) will be multiplied, ſo the trouble in collecting it, muſt neceſſarily be much greater; and therefore it is not to be ima<g ref="char:EOLhyphen"/>gined that the Juſtices and Conſtables will do it without char<g ref="char:EOLhyphen"/>ges, and if ſo, it cannot be ſuppoſed to be done at a much cheaper rate then now it is; and whether it will be thought ſit to alter the preſent way and method which brings in a cer<g ref="char:EOLhyphen"/>tain Revenue to experiment a new way, which is yet uncer<g ref="char:EOLhyphen"/>tain, and muſt be the loſs of half a years Revenue (as is aforeſaid) in expectation of ſaving ſome ſmall matter in the pound, is humbly ſubmitted to ſerious conſiderati<g ref="char:EOLhyphen"/>on; And further it may be conſidered, who ſhall give ſe<g ref="char:EOLhyphen"/>curity for payment of what the Conſtables, &amp;c. collect? and what cheques can be kept on the ſeveral perſons, through whoſe hands the money collected muſt paſs, before it cometh into His Majeſties Coffers?</p>
+               <pb n="12" facs="tcp:52716:7"/>
+               <p>To conclude, it muſt be the work of men, particularly ſet apart, who make it their work and buſineſs to bring in this Re<g ref="char:EOLhyphen"/>venue; for as the Proverb is, <hi>That which is every mans buſineſs, is no mans buſineſs;</hi> and therefore if the Revenue of the Exciſe be left to the management of the Juſtices and Conſtables, &amp;c. its to be feared that inſtead of a more certain, His Majeſty will finde a very uncertain Revenue, and the charges of collecting greater in the new Methods propoſed, then it will be in the pre<g ref="char:EOLhyphen"/>ſent way and management.</p>
+               <pb facs="tcp:52716:7"/>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
